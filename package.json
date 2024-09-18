@@ -1,0 +1,15 @@
+{
+  "name": "kmeans",
+  "version": "1.0.0",
+  "main": "kmeans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ml-kmeans": "^6.0.0",
+    "node-kmeans": "^1.1.9"
+  }
+}
